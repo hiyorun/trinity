@@ -13,7 +13,7 @@
 #define Col7  39
 
 #define RowCount 5
-#define ColCount 17
+#define ColCount 7
 #define LayerCount 3
 
 #define FN 1000
